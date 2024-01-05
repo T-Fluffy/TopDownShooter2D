@@ -1,2 +1,2 @@
-# GMC_TopDownShooter2D
- a simple Unity 2D top-down shooting zombie game
+# TopDownShooter2D
+ A simple Unity 2D top-down survival shooting zombie game
